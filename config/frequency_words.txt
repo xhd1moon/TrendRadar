@@ -1,25 +1,31 @@
-DeepSeek
-梁文锋
+AI
+人工智能
 
 谷歌
 google
-gemini
+微软
+copilot
+
+deepseek
+字节跳动
+阿里巴巴
 
 chatgpt
 openai
+vscode
+TRAE
+Qoder
 
-金价
+科技
+数学
+物理
 
-黄金
-+价格
+陶哲轩
+马斯克
 
-美债
+创客
+arduino
+树莓派
 
-美股
-
-美元
-+指数
-
-特朗普
-
-伊朗
+书籍
+音乐
